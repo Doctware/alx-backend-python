@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" this module a type-anotatated function thats takes
+""" this module contains a type-annotatated function thats takes
 float as args then return float """
 
 
