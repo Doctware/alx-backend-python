@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ this module a type-anotatated function thats takes
 float as args then return float """
 
