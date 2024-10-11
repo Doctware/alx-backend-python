@@ -4,7 +4,7 @@
 import math
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """
     this function takes a float as args and returns a flost value """
     return math.floor(n)
