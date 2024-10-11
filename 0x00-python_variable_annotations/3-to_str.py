@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """ this module contains a type-anotation function that
     takes float as args and returns str of the float """
 
