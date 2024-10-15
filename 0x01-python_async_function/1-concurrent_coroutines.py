@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-""" this module implement cocurrent corouties """
+""" this module implement cocurrent coroutines
+    impoerting basic syntac from basic async """
 import asyncio
 from basic_async_syntax import wait_random
 
