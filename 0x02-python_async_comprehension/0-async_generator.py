@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ this module contains coroutines i.e a generator """
 import asyncio
 import random
